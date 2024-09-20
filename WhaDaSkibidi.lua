@@ -368,7 +368,7 @@ function library.new(library_title, cfg_location)
 
         Position = UDim2.new(0.5, 0, 0.5, 0),
 
-        Size = UDim2.new(0, 500, 0, 500),
+        Size = UDim2.new(0, 600, 0, 500),
 
         Image = "http://www.roblox.com/asset/?id=7300333488",
 
